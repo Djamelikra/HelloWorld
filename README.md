@@ -1,2 +1,2 @@
 # HelloWorld
-![Cover](https://github.com/Djamelikra/HelloWorld.git/img/earth.gif)  
+![Cover](https://github.com/Djamelikra/HelloWorld.git/pictures/earth.gif)  
