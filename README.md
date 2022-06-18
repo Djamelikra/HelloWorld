@@ -1,4 +1,4 @@
 # HelloWorld
-![Cover](https://github.com/Djamelikra/HelloWorld.git/left.png?raw=true)
+![Cover](https://github.com/Djamelikra/HelloWorld.git/img/earth.gif)
 
 
