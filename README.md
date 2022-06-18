@@ -1,4 +1,4 @@
 # HelloWorld
-![Screenshot](left.png)
+![Cover](left.png)
 
 
