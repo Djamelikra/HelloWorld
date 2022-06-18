@@ -1,4 +1,4 @@
 # HelloWorld
-![Cover](left.png)
+![Cover](img/earth.gif)
 
 
