@@ -21,10 +21,10 @@ public class ControlIf {
 
 	public void tryIf() {
 		Toolkit.getDefaultToolkit().beep();
-		String strInput = JOptionPane.showInputDialog(null, "Enter a number");
+		String strInput = JOptionPane.showInputDialog(null, "Enter a number","Title");
 		int nbr1 = Integer.parseInt(strInput);
 		Toolkit.getDefaultToolkit().beep();
-		JOptionPane.showMessageDialog(null,"Message", "Title", 1);
+		JOptionPane.showMessageDialog(null,nbr1, "Title", 1);
 
 	}
 
