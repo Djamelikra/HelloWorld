@@ -21,7 +21,7 @@ public class ControlIf {
 
 	public void tryIf() {
 		Toolkit.getDefaultToolkit().beep();
-		String strInput = JOptionPane.showInputDialog(null, "Enter a number","Title");
+		String strInput = JOptionPane.showInputDialog(null, "Enter a number",13);
 		int nbr1 = Integer.parseInt(strInput);
 		Toolkit.getDefaultToolkit().beep();
 		JOptionPane.showMessageDialog(null,nbr1, "Title", 1);
