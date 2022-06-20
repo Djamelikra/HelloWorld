@@ -30,7 +30,7 @@ public class ControlIf {
 
 	public static void main(String[] args) throws IOException {
 		ControlIf cif = new ControlIf();
-//		cif.testIf();
+		cif.testIf();
 		cif.tryIf();
 
 	}
